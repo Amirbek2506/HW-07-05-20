@@ -9,3 +9,14 @@ C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Console
 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\projects\HW-07-05-20\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\projects\HW-07-05-20\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\projects\HW-07-05-20\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\projects\HW-07-05-20\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\projects\HW-07-05-20\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\projects\HW-07-05-20\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
